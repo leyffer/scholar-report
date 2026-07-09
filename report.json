@@ -1,59 +1,179 @@
 {
   "keywords": [
-    "randomized algorithms",
-    "randomized",
-    "randomization"
+    "mixed-integer optimization",
+    "mixed-integer programming"
   ],
   "nresults": 5,
   "year_range": {
-    "min": 2021,
+    "min": null,
     "max": null
   },
   "authors": [
     {
-      "input_name": "Bao Feng",
-      "canonical_name": "Fengyu Bao",
-      "orcid": "",
-      "total_hits": 16,
+      "input_name": "Leyffer Sven",
+      "canonical_name": "Sven Leyffer",
+      "orcid": "0000-0001-8839-5876",
+      "total_hits": 48,
       "spurious_dropped": 0,
-      "papers": [],
-      "dropped": []
+      "papers": [
+        {
+          "title": "Modeling design and control problems involving neural network surrogates",
+          "authors": [
+            "Dominic Yang",
+            "Prasanna Balaprakash",
+            "Sven Leyffer"
+          ],
+          "venue": "Computational Optimization and Applications",
+          "year": 2022,
+          "doi": "10.1007/s10589-022-00404-9",
+          "url": "https://doi.org/10.1007/s10589-022-00404-9",
+          "citations": 17,
+          "sources": [
+            "openalex",
+            "s2"
+          ],
+          "arxiv_id": "2111.10489",
+          "matches": {
+            "mixed-integer optimization": "abstract"
+          },
+          "match_location": "abstract",
+          "verify_status": "verified",
+          "key": "Yang20224114"
+        },
+        {
+          "title": "Modeling Design and Control Problems Involving Neural Network Surrogates",
+          "authors": [
+            "Dominic T. C. Yang",
+            "Prasanna Balaprakash",
+            "Sven Leyffer"
+          ],
+          "venue": "arXiv (Cornell University)",
+          "year": 2021,
+          "doi": "10.48550/arxiv.2111.10489",
+          "url": "https://doi.org/10.48550/arxiv.2111.10489",
+          "citations": 0,
+          "sources": [
+            "arxiv",
+            "openalex"
+          ],
+          "arxiv_id": "2111.10489",
+          "matches": {
+            "mixed-integer optimization": "abstract"
+          },
+          "match_location": "abstract",
+          "verify_status": "verified",
+          "key": "Yang20214114"
+        }
+      ],
+      "dropped": [
+        {
+          "title": "A Mathematical Programming- and Simulation-Based Framework to Evaluate Cyberinfrastructure Design Choices",
+          "authors": [
+            "Zhengchun Liu",
+            "Rajkumar Kettimuthu",
+            "Sven Leyffer",
+            "Prashant Palkar",
+            "Ian Foster"
+          ],
+          "venue": "IEEE International Conference on e-Science",
+          "year": 2017,
+          "doi": "10.1109/escience.2017.27",
+          "url": "https://doi.org/10.1109/escience.2017.27",
+          "citations": 13,
+          "sources": [
+            "openalex",
+            "s2"
+          ],
+          "arxiv_id": null,
+          "matches": {
+            "mixed-integer programming": "abstract"
+          },
+          "match_location": "abstract",
+          "verify_status": "no-landing",
+          "key": ""
+        }
+      ]
     },
     {
-      "input_name": "Cardona Cristina Garcia",
-      "canonical_name": "C. Cardona",
-      "orcid": "",
-      "total_hits": 12,
+      "input_name": "Wright Stephen",
+      "canonical_name": "Stephen J. Wright",
+      "orcid": "0000-0001-6815-7379",
+      "total_hits": 13,
       "spurious_dropped": 0,
       "papers": [],
-      "dropped": []
-    },
-    {
-      "input_name": "Constantinescu Emil",
-      "canonical_name": "E. Constantinescu",
-      "orcid": "",
-      "total_hits": 100,
-      "spurious_dropped": 0,
-      "papers": [],
-      "dropped": []
-    },
-    {
-      "input_name": "Cyr Eric",
-      "canonical_name": "E. Cyr",
-      "orcid": "",
-      "total_hits": 102,
-      "spurious_dropped": 0,
-      "papers": [],
-      "dropped": []
-    },
-    {
-      "input_name": "Wilcox Karen",
-      "canonical_name": "K. Wilcox",
-      "orcid": "",
-      "total_hits": 98,
-      "spurious_dropped": 0,
-      "papers": [],
-      "dropped": []
+      "dropped": [
+        {
+          "title": "Estimating Tree-Structured Covariance Matrices via Mixed-Integer Programming.",
+          "authors": [
+            "H\u00e9ctor Corrada Bravo",
+            "Stephen J. Wright",
+            "Kevin H. Eng",
+            "S\u00fcnd\u00fcz Kele\u015f",
+            "Grace Wahba"
+          ],
+          "venue": "PubMed",
+          "year": 2009,
+          "doi": null,
+          "url": "https://openalex.org/W2157402621",
+          "citations": 6,
+          "sources": [
+            "openalex"
+          ],
+          "arxiv_id": null,
+          "matches": {
+            "mixed-integer programming": "title"
+          },
+          "match_location": "title",
+          "verify_status": "mismatch",
+          "key": ""
+        },
+        {
+          "title": "Parallelizing Subgradient Methods for the Lagrangian Dual in Stochastic Mixed-Integer Programming",
+          "authors": [
+            "Cong Han Lim",
+            "Jeff Linderoth",
+            "James Luedtke",
+            "Stephen J. Wright"
+          ],
+          "venue": "INFORMS Journal on Optimization",
+          "year": 2021,
+          "doi": "10.1287/ijoo.2019.0029",
+          "url": "https://doi.org/10.1287/ijoo.2019.0029",
+          "citations": 2,
+          "sources": [
+            "openalex"
+          ],
+          "arxiv_id": null,
+          "matches": {
+            "mixed-integer programming": "title"
+          },
+          "match_location": "title",
+          "verify_status": "no-landing",
+          "key": ""
+        },
+        {
+          "title": "Mixed-integer programming approaches for some non-convex and combinatorial optimization problems",
+          "authors": [
+            "Stephen J. Wright",
+            "Srikrishna Sridhar"
+          ],
+          "venue": "",
+          "year": 2014,
+          "doi": null,
+          "url": "https://openalex.org/W2518754254",
+          "citations": 0,
+          "sources": [
+            "openalex"
+          ],
+          "arxiv_id": null,
+          "matches": {
+            "mixed-integer programming": "title"
+          },
+          "match_location": "title",
+          "verify_status": "mismatch",
+          "key": ""
+        }
+      ]
     }
   ]
 }
