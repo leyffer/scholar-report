@@ -1,0 +1,59 @@
+{
+  "keywords": [
+    "randomized algorithms",
+    "randomized",
+    "randomization"
+  ],
+  "nresults": 5,
+  "year_range": {
+    "min": 2021,
+    "max": null
+  },
+  "authors": [
+    {
+      "input_name": "Bao Feng",
+      "canonical_name": "Fengyu Bao",
+      "orcid": "",
+      "total_hits": 16,
+      "spurious_dropped": 0,
+      "papers": [],
+      "dropped": []
+    },
+    {
+      "input_name": "Cardona Cristina Garcia",
+      "canonical_name": "C. Cardona",
+      "orcid": "",
+      "total_hits": 12,
+      "spurious_dropped": 0,
+      "papers": [],
+      "dropped": []
+    },
+    {
+      "input_name": "Constantinescu Emil",
+      "canonical_name": "E. Constantinescu",
+      "orcid": "",
+      "total_hits": 100,
+      "spurious_dropped": 0,
+      "papers": [],
+      "dropped": []
+    },
+    {
+      "input_name": "Cyr Eric",
+      "canonical_name": "E. Cyr",
+      "orcid": "",
+      "total_hits": 102,
+      "spurious_dropped": 0,
+      "papers": [],
+      "dropped": []
+    },
+    {
+      "input_name": "Wilcox Karen",
+      "canonical_name": "K. Wilcox",
+      "orcid": "",
+      "total_hits": 98,
+      "spurious_dropped": 0,
+      "papers": [],
+      "dropped": []
+    }
+  ]
+}
