@@ -92,8 +92,8 @@ Wright Stephen
 substrings, combined with OR):
 
 ```
-mixed integer
-optimization
+mixed-integer optimization
+mixed-integer programming
 ```
 
 **Output — `report.tex`**: a standalone LaTeX document (letterpaper, 1in margins). The
