@@ -1,4 +1,2 @@
-randomized algorithms
-randomized 
-randomization
-
+mixed-integer optimization
+mixed-integer programming
